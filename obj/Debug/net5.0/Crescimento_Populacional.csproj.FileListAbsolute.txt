@@ -1,0 +1,16 @@
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/obj/Debug/net5.0/Crescimento_Populacional.csprojAssemblyReference.cache
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/obj/Debug/net5.0/Crescimento_Populacional.GeneratedMSBuildEditorConfig.editorconfig
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/obj/Debug/net5.0/Crescimento_Populacional.AssemblyInfoInputs.cache
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/obj/Debug/net5.0/Crescimento_Populacional.AssemblyInfo.cs
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/obj/Debug/net5.0/Crescimento_Populacional.csproj.CoreCompileInputs.cache
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/bin/Debug/net5.0/Crescimento_Populacional
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/bin/Debug/net5.0/Crescimento_Populacional.deps.json
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/bin/Debug/net5.0/Crescimento_Populacional.runtimeconfig.json
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/bin/Debug/net5.0/Crescimento_Populacional.runtimeconfig.dev.json
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/bin/Debug/net5.0/Crescimento_Populacional.dll
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/bin/Debug/net5.0/ref/Crescimento_Populacional.dll
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/bin/Debug/net5.0/Crescimento_Populacional.pdb
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/obj/Debug/net5.0/Crescimento_Populacional.dll
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/obj/Debug/net5.0/ref/Crescimento_Populacional.dll
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/obj/Debug/net5.0/Crescimento_Populacional.pdb
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Crescimento_Populacional/obj/Debug/net5.0/Crescimento_Populacional.genruntimeconfig.cache
