@@ -16,11 +16,31 @@ Saída
 Imprima, para cada caso de teste, quantos anos levará para que a cidade A ultrapasse a cidade B em número de habitantes. Obs.: se o tempo for mais do que 100 anos o programa deve apresentar a mensagem: Mais de 1 seculo. Neste caso, é melhor interromper o programa imediatamente após passar de 100 anos, caso contrário você poderá receber como resposta da submissão deste problema "Time Limit Exceeded".
 
  
-Exemplo de Entrada	Exemplo de Saída
-6                       Quantidade de testes
-100 150 1.0 0           51 anos.
-90000 120000 5.5 3.5    16 anos.
-56700 72000 5.2 3.0     12 anos.
-123 2000 3.0 2.0        Mais de 1 seculo.
-100000 110000 1.5 0.5   10 anos.
-62422 484317 3.1 1.0    100 anos.
+Exemplo de Entrada
+
+6 (é a quantidade de testes a ser executada)
+
+100 150 1.0 0
+
+90000 120000 5.5 3.5
+
+56700 72000 5.2 3.0
+
+123 2000 3.0 2.0
+
+100000 110000 1.5 0.5
+
+62422 484317 3.1 1.0
+
+Exemplos de Saída
+
+51 anos.
+
+16 anos.
+
+12 anos.
+
+Mais de 1 seculo.
+
+100 anos.
+
